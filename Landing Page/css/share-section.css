@@ -1,0 +1,17 @@
+.share-section {
+    width: 100%;
+    max-width: 1440px;
+    margin-top: 90px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.sharing-devices img {
+    margin-top: 115px;
+    width: 100%;
+    max-width: 905px;
+    height: auto;
+}
